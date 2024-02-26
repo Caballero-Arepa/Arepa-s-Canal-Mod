@@ -1,0 +1,77 @@
+[
+	{
+		"name": "Dirt Canal",
+		"type": "Water",
+		"production": 1,
+		"movementCost": 1,
+		"RGB": [42, 206, 179],
+		"uniques": [
+			"Doesn't generate naturally","Units ending their turn on this terrain take [amount] damage <for [mapUnitFilter] units>"
+		],
+		"civilopediaText": [
+			{
+				"text": "Vast amounts of surface water exists in this world, and its shallow coastal areas teem with flourishing life."
+			}
+		]
+	},
+	{
+		"name": "Concrete Canal",
+		"type": "Water",
+		"production": 1,
+		"movementCost": 1,
+		"RGB": [42, 206, 179],
+		"uniques": [
+			"Doesn't generate naturally"
+		],
+		"civilopediaText": [
+			{
+				"text": "Vast amounts of surface water exists in this world, and its shallow coastal areas teem with flourishing life."
+			}
+		]
+	},
+	{
+		"name": "Suez Canal",
+		"type": "Water",
+		"production": 1,
+		"movementCost": 1,
+		"RGB": [42, 206, 179],
+		"uniques": [
+			"Doesn't generate naturally"
+		],
+		"civilopediaText": [
+			{
+				"text": "Vast amounts of surface water exists in this world, and its shallow coastal areas teem with flourishing life."
+			}
+		]
+	},
+	{
+		"name": "Panama Canal",
+		"type": "Water",
+		"production": 1,
+		"movementCost": 1,
+		"RGB": [42, 206, 179],
+		"uniques": [
+			"Doesn't generate naturally"
+		],
+		"civilopediaText": [
+			{
+				"text": "Vast amounts of surface water exists in this world, and its shallow coastal areas teem with flourishing life."
+			}
+		]
+	},
+	{
+		"name": "National Canal",
+		"type": "Water",
+		"production": 1,
+		"movementCost": 1,
+		"RGB": [42, 206, 179],
+		"uniques": [
+			"Doesn't generate naturally"
+		],
+		"civilopediaText": [
+			{
+				"text": "Vast amounts of surface water exists in this world, and its shallow coastal areas teem with flourishing life."
+			}
+		]
+	},
+]

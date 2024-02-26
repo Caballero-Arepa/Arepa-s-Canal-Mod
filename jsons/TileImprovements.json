@@ -1,0 +1,32 @@
+
+[
+	{
+		"name": "Dirt Canal Construction Site",
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra"],
+		"turnsToBuild": 10,
+		"techRequired": "Physics",
+		"uniques": ["Turn this tile into a [Dirt Canal] tile"]
+	},
+	{
+		"name": "Concrete Canal Construction Site",
+		"terrainsCanBeBuiltOn": ["Hills","Plains","Grassland","Desert","Tundra"],
+		"turnsToBuild": 10,
+		"techRequired": "Steam Power",
+		"uniques": ["Turn this tile into a [Concrete Canal] tile"]
+	},
+	{
+		"name": "Suez Canal Construction Site",
+		"terrainsCanBeBuiltOn": ["Plains","Desert"],
+		"uniques": ["Turn this tile into a [Suez Canal] tile"]
+	},
+	{
+		"name": "Panama Canal Construction Site",
+		"terrainsCanBeBuiltOn": ["Hills"],
+		"uniques": ["Removes removable features when built","Turn this tile into a [Panama Canal] tile"]
+	},
+	{
+		"name": "National Canal Construction Site",
+		"terrainsCanBeBuiltOn": ["Hills","Plains","Grassland","Desert","Tundra"],
+		"uniques": ["Turn this tile into a [National Canal] tile"]
+	},
+]

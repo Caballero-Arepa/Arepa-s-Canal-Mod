@@ -1,0 +1,17 @@
+[
+	{
+		"name": "Dirt Canal Digger",
+		"unitType": "Civilian",
+		"movement": 2,
+		"uniques": ["Can build [Dirt Canal Construction Site] improvements on tiles <once> <after which this unit is consumed>"],
+		"cost": 120
+	},
+	
+	{
+		"name": "Concrete Canal Digger",
+		"unitType": "Civilian",
+		"movement": 2,
+		"uniques": ["Can build [Concrete Canal Construction Site] improvements on tiles <once> <after which this unit is consumed>"],
+		"cost": 230
+	},
+]
