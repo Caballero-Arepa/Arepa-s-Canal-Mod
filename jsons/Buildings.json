@@ -1,38 +1,37 @@
 [
 	{
-		"name": "Suez Construction Company",
-		"isNationalWonder": true,
-		"production": 3,
-		"science": 3,
-		"gold": 3,
-		"culture": 1,
+		"name": "Suez Canal Company",
+		"isWonder": true,
+		"production": 2,
+		"gold": 5,
+		"science": 1,
 		"cost": 870,
 		"uniques": [
 			"Creates a [Suez Canal Construction Site] improvement on a specific tile"
-		]
+		],
+		"quote": "'The canal is an international sea passage, and not a Turkish or an Egyptian canal.' - Ferdinand de Lesseps"
 	},
 	{
-		"name": "Panama Construction Company",
-		"isNationalWonder": true,
-		"production": 3,
-		"science": 3,
+		"name": "Panama Canal Company",
+		"isWonder": true,
+		"production": 4,
 		"gold": 3,
-		"culture": 1,
+		"culture": 2,
 		"cost": 870,
 		"uniques": [
 			"Creates a [Panama Canal Construction Site] improvement on a specific tile"
-		]
+		],
+		"quote": "'We should keep the Panama Canal. After all, we stole it fair and square.' - S. I. Hayakawa"
 	},
 	{
-		"name": "Canal Construction Company",
+		"name": "National Canal Company",
 		"isNationalWonder": true,
-		"production": 3,
-		"science": 3,
-		"gold": 3,
+		"production": 2,
+		"gold": 1,
 		"culture": 1,
 		"cost": 870,
 		"uniques": [
-			"Creates a [National Canal Construction Site] improvement on a specific tile"
+			"Creates a [National Canal Construction Site] improvement on a specific tile","Free [Concrete Canal Digger] appears"
 		]
-	},
+	}
 ]

@@ -1,32 +1,49 @@
-
 [
 	{
 		"name": "Dirt Canal Construction Site",
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra"],
-		"turnsToBuild": 10,
-		"techRequired": "Physics",
-		"uniques": ["Turn this tile into a [Dirt Canal] tile"]
+		"uniques": [
+			"Turn this tile into a [Coast] tile","Turn this tile into a [Dirt Canal] tile",
+			"Cannot be built on [Hill] tiles","Can only be built on [Coastal] tiles",
+			"Cannot be built on [Land] tiles <with [3] to [6] neighboring [Canal] tiles>",
+			"Canal"]
 	},
 	{
 		"name": "Concrete Canal Construction Site",
-		"terrainsCanBeBuiltOn": ["Hills","Plains","Grassland","Desert","Tundra"],
-		"turnsToBuild": 10,
-		"techRequired": "Steam Power",
-		"uniques": ["Turn this tile into a [Concrete Canal] tile"]
+		"terrainsCanBeBuiltOn": ["Hill","Plains","Grassland","Desert","Tundra","Dirt Canal"],
+		"uniques": [
+			"Turn this tile into a [Coast] tile",
+			"Turn this tile into a [Concrete Canal] tile",
+			"Cannot be built on [Land] tiles <with [3] to [6] neighboring [Canal] tiles>",
+			"Canal"]
 	},
 	{
 		"name": "Suez Canal Construction Site",
 		"terrainsCanBeBuiltOn": ["Plains","Desert"],
-		"uniques": ["Turn this tile into a [Suez Canal] tile"]
+		"uniques": [
+			"Turn this tile into a [Coast] tile",
+			"Turn this tile into a [Suez Canal] tile",
+			"Cannot be built on [Hill] tiles",
+			"Cannot be built on [Land] tiles <with [3] to [6] neighboring [Canal] tiles>",
+			"Canal"]
 	},
 	{
 		"name": "Panama Canal Construction Site",
-		"terrainsCanBeBuiltOn": ["Hills"],
-		"uniques": ["Removes removable features when built","Turn this tile into a [Panama Canal] tile"]
+		"terrainsCanBeBuiltOn": ["Hill"],
+		"uniques": [
+			"Removes removable features when built",
+			"Turn this tile into a [Coast] tile",
+			"Turn this tile into a [Panama Canal] tile",
+			"Cannot be built on [Land] tiles <with [3] to [6] neighboring [Canal] tiles>",
+			"Canal"]
 	},
 	{
 		"name": "National Canal Construction Site",
-		"terrainsCanBeBuiltOn": ["Hills","Plains","Grassland","Desert","Tundra"],
-		"uniques": ["Turn this tile into a [National Canal] tile"]
-	},
+		"terrainsCanBeBuiltOn": ["Hill","Plains","Grassland","Desert","Tundra"],
+		"uniques": [
+			"Turn this tile into a [Coast] tile",
+			"Turn this tile into a [National Canal] tile",
+			"Cannot be built on [Land] tiles <with [3] to [6] neighboring [Canal] tiles>",
+			"Canal"]
+	}
 ]

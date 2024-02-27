@@ -1,0 +1,139 @@
+
+game.png
+size: 1024, 256
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Panama Canal
+  rotate: false
+  xy: 212, 40
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Concrete Canal Construction Site
+  rotate: false
+  xy: 4, 40
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Dirt Canal Construction Site
+  rotate: false
+  xy: 4, 40
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ImprovementIcons/National Canal Construction Site
+  rotate: false
+  xy: 4, 40
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Panama Canal Construction Site
+  rotate: false
+  xy: 4, 40
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Suez Canal Construction Site
+  rotate: false
+  xy: 4, 40
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Concrete Canal Digger
+  rotate: false
+  xy: 4, 40
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Dirt Canal Digger
+  rotate: false
+  xy: 4, 40
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Concrete Canal Digger
+  rotate: false
+  xy: 420, 159
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Dirt Canal Digger
+  rotate: false
+  xy: 420, 70
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Concrete Canal Digger
+  rotate: false
+  xy: 4, 4
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Dirt Canal Digger
+  rotate: false
+  xy: 523, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Concrete Canal
+  rotate: false
+  xy: 523, 184
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Dirt Canal
+  rotate: false
+  xy: 595, 184
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/National Canal
+  rotate: false
+  xy: 667, 184
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Panama Canal
+  rotate: false
+  xy: 667, 120
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Suez Canal
+  rotate: false
+  xy: 739, 184
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Concrete Canal Digger
+  rotate: false
+  xy: 523, 120
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Dirt Canal Digger
+  rotate: false
+  xy: 595, 120
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
