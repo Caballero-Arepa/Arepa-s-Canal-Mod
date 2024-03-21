@@ -14,6 +14,7 @@
 		"uniques": [
 			"Turn this tile into a [Coast] tile",
 			"Turn this tile into a [Concrete Canal] tile",
+			"Can only be built on [Coastal] tiles",
 			"Cannot be built on [Land] tiles <with [3] to [6] neighboring [Canal] tiles>",
 			"Canal"]
 	},
@@ -23,6 +24,7 @@
 		"uniques": [
 			"Turn this tile into a [Coast] tile",
 			"Turn this tile into a [Suez Canal] tile",
+			"Can only be built on [Coastal] tiles",
 			"Cannot be built on [Hill] tiles",
 			"Cannot be built on [Land] tiles <with [3] to [6] neighboring [Canal] tiles>",
 			"Canal"]
@@ -34,6 +36,7 @@
 			"Removes removable features when built",
 			"Turn this tile into a [Coast] tile",
 			"Turn this tile into a [Panama Canal] tile",
+			"Can only be built on [Coastal] tiles",
 			"Cannot be built on [Land] tiles <with [3] to [6] neighboring [Canal] tiles>",
 			"Canal"]
 	},
@@ -43,6 +46,7 @@
 		"uniques": [
 			"Turn this tile into a [Coast] tile",
 			"Turn this tile into a [National Canal] tile",
+			"Can only be built on [Coastal] tiles",
 			"Cannot be built on [Land] tiles <with [3] to [6] neighboring [Canal] tiles>",
 			"Canal"]
 	}
