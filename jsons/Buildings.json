@@ -18,7 +18,7 @@
 		"production": 4,
 		"gold": 3,
 		"culture": 2,
-		"cost": 870,
+		"cost": 1000,
 		"requiredTech": "Electricity",
 		"uniques": [
 			"Creates a [Panama Canal Construction Site] improvement on a specific tile"
@@ -31,7 +31,7 @@
 		"production": 2,
 		"gold": 1,
 		"culture": 1,
-		"cost": 870,
+		"cost": 360,
 		"requiredTech": "Navigation",
 		"uniques": [
 			"Creates a [National Canal Construction Site] improvement on a specific tile","Free [Concrete Canal Digger] appears"
