@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Dirt Canal Construction Site",
-		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra"],
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra", "Snow"],
 		"uniques": [
 			"Turn this tile into a [Coast] tile","Turn this tile into a [Dirt Canal] tile",
 			"Cannot be built on [Hill] tiles","Can only be built on [Coastal] tiles",
@@ -10,7 +10,7 @@
 	},
 	{
 		"name": "Concrete Canal Construction Site",
-		"terrainsCanBeBuiltOn": ["Hill","Plains","Grassland","Desert","Tundra","Dirt Canal"],
+		"terrainsCanBeBuiltOn": ["Hill","Plains","Grassland","Desert","Tundra","Snow","Dirt Canal"],
 		"uniques": [
 			"Turn this tile into a [Coast] tile",
 			"Turn this tile into a [Concrete Canal] tile",
@@ -42,7 +42,7 @@
 	},
 	{
 		"name": "National Canal Construction Site",
-		"terrainsCanBeBuiltOn": ["Hill","Plains","Grassland","Desert","Tundra"],
+		"terrainsCanBeBuiltOn": ["Hill","Plains","Grassland","Desert","Tundra","Snow"],
 		"uniques": [
 			"Turn this tile into a [Coast] tile",
 			"Turn this tile into a [National Canal] tile",
