@@ -20,7 +20,7 @@
 	},
 	{
 		"name": "Suez Canal Construction Site",
-		"terrainsCanBeBuiltOn": ["Plains","Desert"],
+		"terrainsCanBeBuiltOn": ["Plains","Desert","Dirt Canal","Concrete Canal"],
 		"uniques": [
 			"Turn this tile into a [Coast] tile",
 			"Turn this tile into a [Suez Canal] tile",
@@ -31,7 +31,7 @@
 	},
 	{
 		"name": "Panama Canal Construction Site",
-		"terrainsCanBeBuiltOn": ["Hill"],
+		"terrainsCanBeBuiltOn": ["Hill","Dirt Canal","Concrete Canal"],
 		"uniques": [
 			"Removes removable features when built",
 			"Turn this tile into a [Coast] tile",
@@ -42,7 +42,7 @@
 	},
 	{
 		"name": "National Canal Construction Site",
-		"terrainsCanBeBuiltOn": ["Hill","Plains","Grassland","Desert","Tundra","Snow","Coast"],
+		"terrainsCanBeBuiltOn": ["Hill","Plains","Grassland","Desert","Tundra","Snow","Dirt Canal","Concrete Canal"],
 		"uniques": [
 			"Turn this tile into a [Coast] tile",
 			"Turn this tile into a [National Canal] tile",
