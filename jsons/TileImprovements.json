@@ -42,7 +42,7 @@
 	},
 	{
 		"name": "National Canal Construction Site",
-		"terrainsCanBeBuiltOn": ["Hill","Plains","Grassland","Desert","Tundra","Snow","Canal"],
+		"terrainsCanBeBuiltOn": ["Hill","Plains","Grassland","Desert","Tundra","Snow","Coast"],
 		"uniques": [
 			"Turn this tile into a [Coast] tile",
 			"Turn this tile into a [National Canal] tile",
