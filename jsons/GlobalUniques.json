@@ -1,0 +1,7 @@
+{
+  "name": "Global Uniques",
+  "uniques": [
+    "[Water] loses [-2] movement <upon entering a [Dirt Canal] tile>",
+  "[Water] loses [-1] movement <upon entering a [Canal] tile>",
+  ]
+}
