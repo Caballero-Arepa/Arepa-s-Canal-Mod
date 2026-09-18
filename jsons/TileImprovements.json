@@ -4,6 +4,7 @@
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra","Snow"],
 		"uniques": [
 			"Turn this tile into a [Coast] tile",
+			"Remove [Canal] improvements from this tile",
 			"Cannot be built on [Hill] tiles","Can only be built on [Coastal] tiles",
 			"Cannot be built on [Land] tiles <with [3] to [6] neighboring [Canal] tiles>",
 			"Canal"]
@@ -13,6 +14,7 @@
 		"terrainsCanBeBuiltOn": ["Hill","Plains","Grassland","Desert","Tundra","Snow","Coast"],
 		"uniques": [
 			"Turn this tile into a [Coast] tile",
+			"Remove [Canal] improvements from this tile",
 			"Can only be built on [Coastal] tiles",
 			"Cannot be built on [Land] tiles <with [3] to [6] neighboring [Canal] tiles>",
 			"Canal"]
@@ -22,6 +24,7 @@
 		"terrainsCanBeBuiltOn": ["Plains","Desert","Coast"],
 		"uniques": [
 			"Turn this tile into a [Coast] tile",
+			"Remove [Canal] improvements from this tile",
 			"Turn this tile into a [Suez Canal] tile",
 			"Can only be built on [Coastal] tiles",
 			"Cannot be built on [Hill] tiles",
@@ -33,6 +36,7 @@
 		"terrainsCanBeBuiltOn": ["Hill","Coast"],
 		"uniques": [
 			"Removes removable features when built",
+			"Remove [Canal] improvements from this tile",
 			"Turn this tile into a [Coast] tile",
 			"Can only be built on [Coastal] tiles",
 			"Cannot be built on [Land] tiles <with [3] to [6] neighboring [Canal] tiles>",
@@ -43,6 +47,7 @@
 		"terrainsCanBeBuiltOn": ["Hill","Plains","Grassland","Desert","Tundra","Snow","Coast"],
 		"uniques": [
 			"Turn this tile into a [Coast] tile",
+			"Remove [Canal] improvements from this tile",
 			"Can only be built on [Coastal] tiles",
 			"Cannot be built on [Land] tiles <with [3] to [6] neighboring [Canal] tiles>",
 			"Canal"]
