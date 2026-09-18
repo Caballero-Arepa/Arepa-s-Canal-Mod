@@ -2,26 +2,41 @@
 	{
 		"name": "Dirt Canal",
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra","Snow"],
+		"gold": 1,
 		"uniques": [
 			"Turn this tile into a [Coast] tile",
 			"Remove [Canal] improvements from this tile",
 			"Cannot be built on [Hill] tiles","Can only be built on [Coastal] tiles",
 			"Cannot be built on [Land] tiles <with [3] to [6] neighboring [Canal] tiles>",
-			"Canal"]
+			"Canal"],
+		"civilopediaText": [
+			{
+				"text": "For a long time, from the Zenu in South America to the Chinese, people have dug trenches to bend the water as they wish."
+			}
+		]
 	},
 	{
 		"name": "Industrial Canal",
 		"terrainsCanBeBuiltOn": ["Hill","Plains","Grassland","Desert","Tundra","Snow","Coast"],
+		"production": 1,
+		"gold": 2,
 		"uniques": [
 			"Turn this tile into a [Coast] tile",
 			"Remove [Canal] improvements from this tile",
 			"Can only be built on [Coastal] tiles",
 			"Cannot be built on [Land] tiles <with [3] to [6] neighboring [Canal] tiles>",
-			"Canal"]
+			"Canal"],
+		"civilopediaText": [
+			{
+				"text": "Technology and evolution do not spare anyone. Now we can have for once some canals that last longer."
+			}
+		]
 	},
 	{
 		"name": "Suez Canal",
 		"terrainsCanBeBuiltOn": ["Plains","Desert","Coast"],
+		"production": 2,
+		"gold": 3,
 		"uniques": [
 			"Turn this tile into a [Coast] tile",
 			"Remove [Canal] improvements from this tile",
@@ -29,27 +44,47 @@
 			"Can only be built on [Coastal] tiles",
 			"Cannot be built on [Hill] tiles",
 			"Cannot be built on [Land] tiles <with [3] to [6] neighboring [Canal] tiles>",
-			"Canal"]
+			"Canal"],
+		"civilopediaText": [
+			{
+				"text": "Arguably the most important canal in our world, the trade between China and Europe cannot be stopped, not even by land, aparently."
+			}
+		]
 	},
 	{
 		"name": "Panama Canal",
 		"terrainsCanBeBuiltOn": ["Hill","Coast"],
+		"production": 4,
+		"gold": 2,
 		"uniques": [
 			"Removes removable features when built",
 			"Remove [Canal] improvements from this tile",
 			"Turn this tile into a [Coast] tile",
 			"Can only be built on [Coastal] tiles",
 			"Cannot be built on [Land] tiles <with [3] to [6] neighboring [Canal] tiles>",
-			"Canal"]
+			"Canal"],
+		"civilopediaText": [
+			{
+				"text": "One of the most impressive feats of engineering, elevating up to 26 meters high some of the biggest ships ever build, just to cross a tiny strip of land."
+			}
+		]
 	},
 	{
 		"name": "National Canal",
 		"terrainsCanBeBuiltOn": ["Hill","Plains","Grassland","Desert","Tundra","Snow","Coast"],
+		"production": 2,
+		"gold": 1,
+		"happiness": 1,
 		"uniques": [
 			"Turn this tile into a [Coast] tile",
 			"Remove [Canal] improvements from this tile",
 			"Can only be built on [Coastal] tiles",
 			"Cannot be built on [Land] tiles <with [3] to [6] neighboring [Canal] tiles>",
-			"Canal"]
+			"Canal"],
+		"civilopediaText": [
+			{
+				"text": "Cutting and making new water ways is the best way to increase trade efficency."
+			}
+		]
 	}
 ]
