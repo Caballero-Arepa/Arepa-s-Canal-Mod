@@ -8,7 +8,7 @@
 		"cost": 870,
 		"requiredTech": "Archaeology",
 		"uniques": [
-			"Creates a [Suez Canal Construction Site] improvement on a specific tile"
+			"Creates a [Suez Canal] improvement on a specific tile"
 		],
 		"quote": "'The canal is an international sea passage, and not a Turkish or an Egyptian canal.' - Ferdinand de Lesseps"
 	},
@@ -21,7 +21,7 @@
 		"cost": 1000,
 		"requiredTech": "Electricity",
 		"uniques": [
-			"Creates a [Panama Canal Construction Site] improvement on a specific tile"
+			"Creates a [Panama Canal] improvement on a specific tile"
 		],
 		"quote": "'We should keep the Panama Canal. After all, we stole it fair and square.' - S. I. Hayakawa"
 	},
@@ -34,7 +34,7 @@
 		"cost": 360,
 		"requiredTech": "Navigation",
 		"uniques": [
-			"Creates a [National Canal Construction Site] improvement on a specific tile","Free [Concrete Canal Digger] appears"
+			"Creates a [National Canal] improvement on a specific tile","Free [Concrete Canal Digger] appears"
 		]
 	}
 ]
