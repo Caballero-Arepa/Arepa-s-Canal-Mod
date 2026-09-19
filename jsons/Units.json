@@ -6,17 +6,17 @@
 		"requiredTech": "Physics",
 		"obsoleteTech": "Steam Power",
 		"uniques": [
-			"Can instantly construct a [Dirt Canal Construction Site] improvement <once> <in tiles without [Hill]> <after which this unit is consumed>"],
+			"Can instantly construct a [Dirt Canal] improvement <once> <in tiles without [Hill]> <after which this unit is consumed>"],
 		"cost": 170
 	},
 	
 	{
-		"name": "Concrete Canal Digger",
+		"name": "Industrial Canal Builder",
 		"unitType": "Civilian",
 		"movement": 2,
 		"requiredTech": "Steam Power",
 		"uniques": [
-			"Can instantly construct a [Concrete Canal Construction Site] improvement <once> <after which this unit is consumed>"],
+			"Can instantly construct a [Industrial Canal] improvement <once> <after which this unit is consumed>"],
 		"cost": 280
 	}
 ]
